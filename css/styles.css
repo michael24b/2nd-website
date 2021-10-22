@@ -1,0 +1,204 @@
+
+
+
+body {
+  margin: 0;
+  position: relative;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+h1 {
+  font-size: 5.62rem;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #EEEEEE;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #495464;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  background-color: #E6E6E6;
+  border-style: none;
+  border-top-style: dotted;
+  width: 15%;
+  border-color: #787A91;
+  border-width: 10px;
+}
+
+.imgs{
+  height: 100%;
+  width: 100%;
+  border-radius: 10% 10% 10% 10%
+
+}
+.img-icon{
+  position: absolute;
+  height: 30px;
+  padding-left: 10px;
+}
+.img-icon:hover{
+  background-color: gold;
+}
+
+.Pro {
+
+  text-decoration: underline;
+}
+
+
+.top-container{
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background-color: #EDEDED;
+  background: linear-gradient(#787A91, #E6E6E6);
+
+
+
+
+
+}
+
+.middle-container{
+  background-color: #E6E6E6;
+  padding-bottom: 70px;
+
+
+
+
+
+}
+
+.profile{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+
+.skills{
+  margin: 100px auto 100px auto;
+  width: 70%;
+  line-height: 2;
+
+}
+
+.skill-1{
+  padding: 100px 0 150px 0;
+}
+
+.gif-coding{
+  width: 50%;
+  float: left;
+  margin: 0 50px 0 0;
+  border-radius: 50% 50% 50% 50%;
+}
+
+
+.gif-drawing{
+  width: 50%;
+  float: right;
+  margin : 0 0 50px 50px;
+  border-radius: 50% 50% 50% 50%;
+
+}
+
+
+.contact-me{
+  margin: 100px auto 100px auto;
+  width: 50%;
+
+}
+
+.loc-img{
+
+  float: left;
+  width: 3%;
+  margin-right: 20px;
+
+}
+
+.loc-p{
+
+  text-align: left;
+
+}
+
+.phone-img{
+  float: left;
+  width: 3%;
+  margin-right: 20px;
+}
+.phone-p{
+  text-align: left;
+}
+
+.msg-img{
+  float: left;
+  width: 3%;
+  margin-right: 20px;
+}
+
+.msg-p{
+  text-align: left;
+}
+
+
+.bottom-container{
+  padding-top: 70px;
+  padding-bottom: 70px;
+  background: linear-gradient(#E6E6E6,#787A91);
+
+
+}
+
+.facebook{
+  width: 3%;
+  margin-right: 5px;
+
+
+}
+.instagram{
+  width: 3%;
+  margin-left: 5px;
+
+}
+
+.drawing-container{
+  background-color: #E6E6E6;
+}
+.computer{
+  position: relative;
+  padding-top: 30px;
+}
+
+.mouse{
+  position: absolute;
+  top: 200px;
+  right: 200px;
+}
+
+.cpu{
+  position: absolute;
+  top: 100px;
+  left: 200px;
+}
+.connection{
+  position: absolute;
+  top: 500px;
+  left: 300px;
+}
+.profpic{
+
+  width: 300px;
+  border-radius: 30% 30% 70% 70%;
+}
